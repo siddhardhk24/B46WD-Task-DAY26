@@ -1,0 +1,44 @@
+*{
+    padding: 1%;
+    background-color: rgb(61, 139, 106);
+    color: azure;
+    font-weight: bolder;
+
+}
+.bodyclass
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+
+.tableread
+{
+    height: 650px;
+    width: 550px;
+
+
+}
+
+.left{
+
+    background-color: rgb(57, 0, 100);
+}
+
+.right{
+
+
+    background-color: rgb(57, 0, 100);
+}
+
+.tableread{
+
+    
+    text-align: center;
+   height: 200px;
+    background-color: rgb(230, 183, 66);
+    border-radius: 20px;
+
+}
+

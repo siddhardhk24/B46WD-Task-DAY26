@@ -1,0 +1,53 @@
+*{
+    padding: 1%;
+    background-color: darkslateblue;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+
+}
+
+.center{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.formdsn1{
+
+    text-align: center;
+   height: 350px;
+    background-color: rgb(142, 128, 237);
+    border-radius: 20px;
+
+}
+
+.inputtxt1
+{
+    border-radius: 10px;
+    border: 0.5px;
+}
+
+.age1
+{
+    border-radius: 10px;
+    border: 0.5px;
+}
+
+.btn1
+{
+    border: 0;
+    border-radius: 10px;
+
+}
+
+.subject1
+{
+
+    border-radius: 10px;
+    border: 0.5px;
+    
+
+}
